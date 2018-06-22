@@ -7,6 +7,7 @@ Rodando no heroku, [aqui](https://password-strength-checker.herokuapp.com/)
 **Pré-requisitos**
 
 - JDK 8
+- Maven 3.3.9
 
 **Para executar**
 1. gerar o artefato *.jar*:
